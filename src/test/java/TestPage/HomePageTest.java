@@ -16,7 +16,7 @@ public class HomePageTest {
 		bp=new BasePage();
 	}
 @Test
-public void verifywomen12(){
+public void verifywomen1232(){
 	Assert.assertTrue(hp.getwomen().isDisplayed(), "Failed");
 	hp.getwomen().click();
 	
