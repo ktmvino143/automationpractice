@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestPage.HomePageTest" duration-ms="8831" started-at="2020-01-06T12:51:17Z" finished-at="2020-01-06T12:51:26Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8831" started-at="2020-01-06T12:51:17Z" finished-at="2020-01-06T12:51:26Z">
+      <class name="TestPage.HomePageTest">
+        <test-method status="PASS" signature="verifydresses()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifydresses" duration-ms="1500" started-at="2020-01-06T18:21:17Z" finished-at="2020-01-06T18:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydresses -->
+        <test-method status="PASS" signature="verifylarge()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifylarge" duration-ms="1669" started-at="2020-01-06T18:21:18Z" finished-at="2020-01-06T18:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylarge -->
+        <test-method status="PASS" signature="verifymeadium()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifymeadium" duration-ms="43" started-at="2020-01-06T18:21:20Z" finished-at="2020-01-06T18:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymeadium -->
+        <test-method status="PASS" signature="verifynewTshirts()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifynewTshirts" duration-ms="59" started-at="2020-01-06T18:21:20Z" finished-at="2020-01-06T18:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifynewTshirts -->
+        <test-method status="PASS" signature="verifynewdresses()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifynewdresses" duration-ms="59" started-at="2020-01-06T18:21:20Z" finished-at="2020-01-06T18:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifynewdresses -->
+        <test-method status="PASS" signature="verifynewwomen()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifynewwomen" duration-ms="48" started-at="2020-01-06T18:21:20Z" finished-at="2020-01-06T18:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifynewwomen -->
+        <test-method status="PASS" signature="verifysmall()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifysmall" duration-ms="63" started-at="2020-01-06T18:21:20Z" finished-at="2020-01-06T18:21:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifysmall -->
+        <test-method status="PASS" signature="verifytshirts()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifytshirts" duration-ms="2698" started-at="2020-01-06T18:21:20Z" finished-at="2020-01-06T18:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytshirts -->
+        <test-method status="PASS" signature="verifywomen()[pri:0, instance:TestPage.HomePageTest@21282ed8]" name="verifywomen" duration-ms="2666" started-at="2020-01-06T18:21:23Z" finished-at="2020-01-06T18:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifywomen -->
+      </class> <!-- TestPage.HomePageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestPage.HomePageTest -->
+</testng-results>
